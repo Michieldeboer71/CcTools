@@ -20,10 +20,10 @@
 apt-get update && apt-get upgrade && apt-get install git python3 nodejs
 ```
 ```
-git clone https://github.com/BlackFoxTM/Fox-CC
+git clone https://github.com/Michieldeboer71/CcTools
 ```
 ```
-cd Fox-CC
+cd CcTools
 ```
 ```
 pip3 install -r requirements.txt
