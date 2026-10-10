@@ -1,0 +1,2 @@
+# CcTools
+Script termux
